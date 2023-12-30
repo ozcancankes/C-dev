@@ -7,3 +7,5 @@ Bu C# uygulaması, bir kitap sınıfı oluşturur ve bu sınıfın özellikleri 
 
 Ana programdaysa, çeşitli kitapların bilgileri ve bu kitaplara uygulanan indirim yazılmıştır. Son olarak, kitapların isimlerini ve indirimli fiyatlarını yazdırır.
 
+//Kitap fiyatları farazi olarak yazılmıştır gerçek fiyatlarıyla eş değer olmayabilirler.
+
