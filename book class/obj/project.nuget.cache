@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "H78ihIu3kmWXmfOMqtrHDZxo9otozpvjQV6iWx+ChTq6SUwXF5LNeIp/ezI6Spl9SPJ3bntX9MP9MWBR0uHNjg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\asus\\Desktop\\Yeni klasör\\book class\\151320201195.BOOKclassödevi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\asus\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.14\\microsoft.windowsdesktop.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\asus\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.14\\microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\asus\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.14\\microsoft.aspnetcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\asus\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.14\\microsoft.netcore.app.host.win-x64.7.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}

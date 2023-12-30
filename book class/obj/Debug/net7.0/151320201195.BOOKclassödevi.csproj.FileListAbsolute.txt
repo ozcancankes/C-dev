@@ -1,0 +1,42 @@
+C:\Users\asus\Desktop\Yeni klasör (4)\bin\Debug\net7.0\151320201195.BOOKclassödevi.exe
+C:\Users\asus\Desktop\Yeni klasör (4)\bin\Debug\net7.0\151320201195.BOOKclassödevi.deps.json
+C:\Users\asus\Desktop\Yeni klasör (4)\bin\Debug\net7.0\151320201195.BOOKclassödevi.runtimeconfig.json
+C:\Users\asus\Desktop\Yeni klasör (4)\bin\Debug\net7.0\151320201195.BOOKclassödevi.dll
+C:\Users\asus\Desktop\Yeni klasör (4)\bin\Debug\net7.0\151320201195.BOOKclassödevi.pdb
+C:\Users\asus\Desktop\Yeni klasör (4)\obj\Debug\net7.0\151320201195.BOOKclassödevi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\Desktop\Yeni klasör (4)\obj\Debug\net7.0\151320201195.BOOKclassödevi.AssemblyInfoInputs.cache
+C:\Users\asus\Desktop\Yeni klasör (4)\obj\Debug\net7.0\151320201195.BOOKclassödevi.AssemblyInfo.cs
+C:\Users\asus\Desktop\Yeni klasör (4)\obj\Debug\net7.0\151320201195.BOOKclassödevi.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\Yeni klasör (4)\obj\Debug\net7.0\151320201195.BOOKclassödevi.dll
+C:\Users\asus\Desktop\Yeni klasör (4)\obj\Debug\net7.0\refint\151320201195.BOOKclassödevi.dll
+C:\Users\asus\Desktop\Yeni klasör (4)\obj\Debug\net7.0\151320201195.BOOKclassödevi.pdb
+C:\Users\asus\Desktop\Yeni klasör (4)\obj\Debug\net7.0\151320201195.BOOKclassödevi.genruntimeconfig.cache
+C:\Users\asus\Desktop\Yeni klasör (4)\obj\Debug\net7.0\ref\151320201195.BOOKclassödevi.dll
+C:\Users\asus\Desktop\book class\bin\Debug\net7.0\151320201195.BOOKclassödevi.exe
+C:\Users\asus\Desktop\book class\bin\Debug\net7.0\151320201195.BOOKclassödevi.deps.json
+C:\Users\asus\Desktop\book class\bin\Debug\net7.0\151320201195.BOOKclassödevi.runtimeconfig.json
+C:\Users\asus\Desktop\book class\bin\Debug\net7.0\151320201195.BOOKclassödevi.dll
+C:\Users\asus\Desktop\book class\bin\Debug\net7.0\151320201195.BOOKclassödevi.pdb
+C:\Users\asus\Desktop\book class\obj\Debug\net7.0\151320201195.BOOKclassödevi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\Desktop\book class\obj\Debug\net7.0\151320201195.BOOKclassödevi.AssemblyInfoInputs.cache
+C:\Users\asus\Desktop\book class\obj\Debug\net7.0\151320201195.BOOKclassödevi.AssemblyInfo.cs
+C:\Users\asus\Desktop\book class\obj\Debug\net7.0\151320201195.BOOKclassödevi.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\book class\obj\Debug\net7.0\151320201195.BOOKclassödevi.dll
+C:\Users\asus\Desktop\book class\obj\Debug\net7.0\refint\151320201195.BOOKclassödevi.dll
+C:\Users\asus\Desktop\book class\obj\Debug\net7.0\151320201195.BOOKclassödevi.pdb
+C:\Users\asus\Desktop\book class\obj\Debug\net7.0\151320201195.BOOKclassödevi.genruntimeconfig.cache
+C:\Users\asus\Desktop\book class\obj\Debug\net7.0\ref\151320201195.BOOKclassödevi.dll
+C:\Users\asus\Desktop\Yeni klasör\book class\bin\Debug\net7.0\151320201195.BOOKclassödevi.exe
+C:\Users\asus\Desktop\Yeni klasör\book class\bin\Debug\net7.0\151320201195.BOOKclassödevi.deps.json
+C:\Users\asus\Desktop\Yeni klasör\book class\bin\Debug\net7.0\151320201195.BOOKclassödevi.runtimeconfig.json
+C:\Users\asus\Desktop\Yeni klasör\book class\bin\Debug\net7.0\151320201195.BOOKclassödevi.dll
+C:\Users\asus\Desktop\Yeni klasör\book class\bin\Debug\net7.0\151320201195.BOOKclassödevi.pdb
+C:\Users\asus\Desktop\Yeni klasör\book class\obj\Debug\net7.0\151320201195.BOOKclassödevi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\Desktop\Yeni klasör\book class\obj\Debug\net7.0\151320201195.BOOKclassödevi.AssemblyInfoInputs.cache
+C:\Users\asus\Desktop\Yeni klasör\book class\obj\Debug\net7.0\151320201195.BOOKclassödevi.AssemblyInfo.cs
+C:\Users\asus\Desktop\Yeni klasör\book class\obj\Debug\net7.0\151320201195.BOOKclassödevi.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\Yeni klasör\book class\obj\Debug\net7.0\151320201195.BOOKclassödevi.dll
+C:\Users\asus\Desktop\Yeni klasör\book class\obj\Debug\net7.0\refint\151320201195.BOOKclassödevi.dll
+C:\Users\asus\Desktop\Yeni klasör\book class\obj\Debug\net7.0\151320201195.BOOKclassödevi.pdb
+C:\Users\asus\Desktop\Yeni klasör\book class\obj\Debug\net7.0\151320201195.BOOKclassödevi.genruntimeconfig.cache
+C:\Users\asus\Desktop\Yeni klasör\book class\obj\Debug\net7.0\ref\151320201195.BOOKclassödevi.dll
